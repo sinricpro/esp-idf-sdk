@@ -2,7 +2,7 @@
 
 # 404
 
-We are looking for passionate developers to build the IDF component.
+We are looking for passionate developers to build the IDF component. If you are interested please contact us 
 
 
 
