@@ -1,4 +1,4 @@
-# sinricpro-esp-idf-sdk
+# esp-idf-sdk
 
 # 404
 
