@@ -1,0 +1,1 @@
+# sinricpro-esp-idf-sdk
